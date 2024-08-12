@@ -1,0 +1,8 @@
+name: GoldRush
+version: 1.0
+main: com.example.GoldRushPlugin
+api-version: 1.16
+commands:
+  gold-rush:
+    description: Start the Gold Rush game
+    usage: /gold-rush
